@@ -1,3 +1,5 @@
 # recipe-app
 Very simple application on React Native, implemented requests to get recipes, search by name and display the recipe by click.
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image 1](https://github.com/recipe-app/blob/master/1.jpg
+![Image 2](https://github.com/recipe-app/blob/master/2.jpg
+![Image 3](https://github.com/recipe-app/blob/master/3.jpg
